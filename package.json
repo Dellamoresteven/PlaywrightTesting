@@ -1,0 +1,23 @@
+{
+  "name": "PlaywrightTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaComSci/PlaywrightTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaComSci/PlaywrightTesting/issues"
+  },
+  "homepage": "https://github.com/javaComSci/PlaywrightTesting#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.14.1"
+  }
+}
